@@ -56,6 +56,11 @@ Create an `.env` file in the focalboard directory that contains:
 EXCLUDE_ENTERPRISE="1"
 ```
 
+To build the server on windows usew64devkit:
+
+```
+ make server-win
+```
 To build the server:
 
 ```
